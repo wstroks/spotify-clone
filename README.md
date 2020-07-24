@@ -1,7 +1,7 @@
 <br>
 
 <h1 align='center'>
-      <img alt="Spotify" title="#logo" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2016%2F09%2Fspotify-logo-6.png&imgrefurl=https%3A%2F%2Flogodownload.org%2Fspotify-logo%2F&tbnid=wCnmQMqMGdH0NM&vet=12ahUKEwi9o5KU5ObqAhW-ALkGHXtsD94QMygIegUIARCzAQ..i&docid=9vaoFW3MWCFqDM&w=1440&h=720&q=spotify%20logo&ved=2ahUKEwi9o5KU5ObqAhW-ALkGHXtsD94QMygIegUIARCzAQ" width="200px" />
+      <img alt="Spotify" title="#logo" src="https://logodownload.org/wp-content/uploads/2016/09/Spotify-logo-14.png" width="100px" />
 </h1>
 
 <br>
