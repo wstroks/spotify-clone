@@ -4,7 +4,8 @@ export const Container = styled.View`
     height: 80px;
     background-color: #222;
     border-top-color: #000;
-    border-width: 1px
+    border-top-width: 2px;
+    padding: 5px;
 `;
 
 export const SubContainer = styled.View`

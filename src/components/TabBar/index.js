@@ -8,8 +8,6 @@ import {
     ActionName,
 } from './styles';
 
-
-
 export default function TabBar() {
 
     const [iconConfigure] = useState({
